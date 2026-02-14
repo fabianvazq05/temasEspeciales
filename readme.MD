@@ -15,7 +15,7 @@
 - Leche
 - Queso
 
-'''python
+```python
 def sumar(a, b){
 }
-'''
+```
